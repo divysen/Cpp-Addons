@@ -1,0 +1,19 @@
+{
+  "name": "cpp-addons",
+  "version": "1.0.0",
+  "description": "cpp addons feature in node v8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divysen/Cpp-Addons.git"
+  },
+  "author": "Divy Sen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divysen/Cpp-Addons/issues"
+  },
+  "homepage": "https://github.com/divysen/Cpp-Addons#readme"
+}
